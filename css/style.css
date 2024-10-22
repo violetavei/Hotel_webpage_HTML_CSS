@@ -208,7 +208,7 @@ footer {
 
   /* contact */
 #contact-form .form-group {
-    margin: auto 10px 20px 10px;
+    margin-bottom: 20px;
  }
 #contact-form h1, p {
     margin-left: 10px;
@@ -219,7 +219,7 @@ footer {
  }
 #contact-form .form-group input,
 #contact-form .form-group textarea {
-    width: 100%;
+    width: 30%;
     padding: 10px;
     border: 1px solid #ddd;
  }
